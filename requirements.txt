@@ -1,0 +1,10 @@
+pyodbc
+fastapi
+mysql-connector-python
+python-dotenv
+uvicorn
+python-jose
+bcrypt
+passlib
+python-multipart
+google-generativeai

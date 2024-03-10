@@ -1,0 +1,2 @@
+conn = '' # connection
+cur = ''  # cursor
